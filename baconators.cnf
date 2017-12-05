@@ -1,0 +1,44 @@
+# Configuration file
+
+item_baconator {
+    # Set to false to disable and remove this item.
+    B:Enabled=true
+
+    # Maximum capacity this item can hold. default=64
+    I:MaxStorageCapacity=64
+
+    # List of allowed food items this item can hold.
+    S:AllowedFoodList <
+        minecraft:cooked_porkchop
+     >
+}
+
+
+item_cluckinator {
+    # Set to false to disable and remove this item.
+    B:Enabled=true
+
+    # Maximum capacity this item can hold. default=64
+    I:MaxStorageCapacity=64
+
+    # List of allowed food items this item can hold.
+    S:AllowedFoodList <
+        minecraft:cooked_chicken
+     >
+}
+
+
+item_jerkynator {
+    # Set to false to disable and remove this item.
+    B:Enabled=true
+
+    # Maximum capacity this item can hold. default=64
+    I:MaxStorageCapacity=64
+
+    # List of allowed food items this item can hold.
+    S:AllowedFoodList <
+        minecraft:cooked_beef
+     >
+}
+
+

@@ -1,0 +1,2 @@
+SimpleAchievements:sa.achievementBook, 1
+minecraft:torch, 1
